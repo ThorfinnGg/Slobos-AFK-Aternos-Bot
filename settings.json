@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AizenII.aternos.me",
-    "port": 30264,
-    "version": "1.21.7",
+    "ip": "AizenII-KH4A.aternos.me",
+    "port": 38849,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
