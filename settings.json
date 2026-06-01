@@ -32,7 +32,7 @@
       "messages": [
         "Welcome to my Server! :)",
         "Follow me on TikTok: aizen.xyz0",
-        "Kind people exist, If you can’t find one, be one.",
+        "Kind people exist, If you can’t find one, be one."
       ]
     },
     "chat-log": true,
@@ -69,7 +69,7 @@
   },
   "beds": {
     "pick-up-day": true,
-    "place-night": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
