@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aizen-44wc.aternos.me",
-    "port": 28853,
+    "ip": "AizenII-KH4A.aternos.me",
+    "port": 38849,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -30,9 +30,9 @@
       "enabled": true,
       "repeat": false,
       "messages": [
-        "Welcome to my Server!",
+        "Welcome to my Server! :)",
         "Follow me on TikTok: aizen.xyz0",
-        "kind people exist, If you can’t find one, be one."
+        "Kind people exist, If you can’t find one, be one.",
       ]
     },
     "chat-log": true,
@@ -69,7 +69,7 @@
   },
   "beds": {
     "pick-up-day": true,
-    "place-night": true
+    "place-night": true,
   },
   "discord": {
     "enabled": false,
